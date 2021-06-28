@@ -2,7 +2,7 @@
 
 namespace TestNinja.Fundamentals
 {
-    public class Math
+    public class CustomMath
     {
         public int Add(int a, int b)
         { 
